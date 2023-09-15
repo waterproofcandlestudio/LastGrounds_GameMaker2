@@ -1,0 +1,43 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBotonHordaDificil",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Horda",
+    "path": "folders/Objetos/Botones/Horda.yy",
+  },
+  "parentObjectId": {
+    "name": "oBoton",
+    "path": "objects/oBoton/oBoton.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "Bot_n_men__Opciones",
+    "path": "sprites/Bot_n_men__Opciones/Bot_n_men__Opciones.yy",
+  },
+  "spriteMaskId": {
+    "name": "Bot_n_men__Opciones",
+    "path": "sprites/Bot_n_men__Opciones/Bot_n_men__Opciones.yy",
+  },
+  "visible": true,
+}
